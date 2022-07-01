@@ -11,3 +11,6 @@ Learning an algorithm gets much easier with visualizing it. Don't get what we me
 2. Akshay Barge
 
 3. Aniket Zinjad
+
+### this repo is for the frontend of the project for backend refer :
+https://github.com/Instinct-Goku/AlgoLab-server
